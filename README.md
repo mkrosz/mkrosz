@@ -1,7 +1,7 @@
 ### Oie!! I'am Mike 🤙🏻
 
 <div style="display: inline_block">
-    <img align="left" alt="html5" height="650" width="359,99"
+    <img align="left" alt="html5" height="630" width="359,99"
         src="https://github.com/mkrosz/mkrosz/assets/102179118/2ea73f42-2f91-4805-af2b-6fb9768c7f92">
 </div>
 
@@ -11,7 +11,7 @@
     <img align="center" alt=""
         src="https://github-readme-stats.vercel.app/api?username=mkrosz&show_icons=true&theme=swift">
     <img align="center" alt=""
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrosz&layout=donut">
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrosz&layout=compact">
 </div>
 
 </br>
