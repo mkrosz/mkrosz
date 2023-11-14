@@ -6,9 +6,9 @@
 </div>
 
 <div style="display: inline_block">
-    <img align="left" alt=""
+    <img align="right" alt=""
         src="https://github-readme-stats.vercel.app/api?username=mkrosz&show_icons=true&theme=swift">
-    <img align="left" alt=""
+    <img align="right" alt=""
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrosz&layout=donut">
 </div>
 
