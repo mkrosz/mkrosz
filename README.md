@@ -36,6 +36,8 @@
      <img class="gif" align="right" alt="Gif" height="250" width="250" src="https://github.com/mkrosz/mkrosz/assets/102179118/7fcfe0bd-508c-4363-82b9-78c8d721622c" />
 </div>
 
+</br>
+
 ### Ferramentas que utilizo!! 💻
 
 <div style="display: inline_block">
