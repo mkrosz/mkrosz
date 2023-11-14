@@ -1,14 +1,20 @@
 ### Oie!! I'am Mike 🤙🏻
 
-<div style="display: inline_block"> <br/>
+<div style="display: inline_block">
     <img align="left" alt="html5" height="650" width="359,99"
         src="https://github.com/mkrosz/mkrosz/assets/102179118/2ea73f42-2f91-4805-af2b-6fb9768c7f92">
 </div>
 
-### Meus Status ✨
+<div style="display: inline_block">
+    <img align="left" alt=""
+        src="https://github-readme-stats.vercel.app/api?username=mkrosz&show_icons=true&theme=swift">
+    <img align="left" alt=""
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrosz&layout=donut">
+</div>
 
-![mkrosz GitHub stats](https://github-readme-stats.vercel.app/api?username=mkrosz&show_icons=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkrosz&layout=donut)
+</br>
+
+### Meus Status ✨
 
 ### Linguagens da programação que eu uso para codar!! 👾
 
@@ -48,7 +54,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/mikrosoft2006@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mike.rosz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-franguelli-137513248/)
-
-</br>
-
-![Cobrinha](https://github.com/mkrosz/mkrosz/bloob/output/github-contribution-grid-snake.svg)
