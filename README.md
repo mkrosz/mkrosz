@@ -5,6 +5,8 @@
         src="https://github.com/mkrosz/mkrosz/assets/102179118/2ea73f42-2f91-4805-af2b-6fb9768c7f92">
 </div>
 
+### Meus Status ✨
+
 <div style="display: inline_block">
     <img align="center" alt=""
         src="https://github-readme-stats.vercel.app/api?username=mkrosz&show_icons=true&theme=swift">
@@ -13,8 +15,6 @@
 </div>
 
 </br>
-
-### Meus Status ✨
 
 ### Linguagens da programação que eu uso para codar!! 👾
 
