@@ -1,7 +1,7 @@
 ### Oie!! I'am Mike 🤙🏻
 
 <div style="display: inline_block"> <br/>
-    <img align="left" alt="html5" height="640" width="370"
+    <img align="left" alt="html5" height="550" width="300"
         src="https://github.com/mkrosz/mkrosz/assets/102179118/2ea73f42-2f91-4805-af2b-6fb9768c7f92">
 </div>
 
