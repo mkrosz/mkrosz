@@ -1,7 +1,7 @@
 ### Oie!! I'am Mike 🤙🏻
 
 <div style="display: inline_block"> <br/>
-    <img align="left" alt="html5" height="650" width="358"
+    <img align="left" alt="html5" height="650" width="360"
         src="https://github.com/mkrosz/mkrosz/assets/102179118/2ea73f42-2f91-4805-af2b-6fb9768c7f92">
 </div>
 
@@ -12,7 +12,7 @@
 
 ### Linguagens da programação que eu uso para codar!! 👾
 
-<div style="display: inline_block"> <br/>
+<div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
