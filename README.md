@@ -10,7 +10,7 @@
 <div style="display: inline_block">
     <img align="center" alt=""
         src="https://github-readme-stats.vercel.app/api?username=mkrosz&show_icons=true&theme=swift">
-</br></br></br></br>
+</br></br></br>
     <img align="center" alt=""
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrosz&layout=compact">
 </div>
