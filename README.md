@@ -60,6 +60,4 @@
 
 </br>
 
-![github-contribution-grid-snake](https://github.com/mkrosz/mkrosz/assets/102179118/24522f85-1119-4348-bd2f-81f3b365c079)
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![github-contribution-grid-snake-dark](https://github.com/mkrosz/mkrosz/assets/102179118/616c7a50-ed31-4438-a82a-f9ba000809a4)
