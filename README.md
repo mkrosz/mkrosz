@@ -33,7 +33,7 @@
 </div>
 
 <div style="display: inline_block"></br></br>
-     <img class="gif" align="right" alt="Gif" height="250" width="250" src="https://github.com/mkrosz/mkrosz/assets/102179118/7fcfe0bd-508c-4363-82b9-78c8d721622c" />
+     <img align="right" alt="Gif" height="250" width="250" src="https://github.com/mkrosz/mkrosz/assets/102179118/7fcfe0bd-508c-4363-82b9-78c8d721622c" />
 </div>
 
 </br>
@@ -57,3 +57,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mike.rosz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-franguelli-137513248/)
 
+</br>
+
+<div style="display: inline_block"></br></br>
+     <img align="center" alt="Gif2" height="" width="" src="" />
+</div>
