@@ -60,4 +60,5 @@
 
 </br>
 
-![Django the Cat](https://github.com/mkrosz/mkrosz/assets/102179118/304bd824-12ea-4585-a3c4-eb37eade6745)
+![the Cat](https://github.com/mkrosz/mkrosz/assets/102179118/2f36e4f3-7fef-49dc-a2ea-520ed5600148)
+
