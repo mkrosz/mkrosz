@@ -60,4 +60,4 @@
 
 </br>
 
-![github-contribution-grid-snake-dark](https://github.com/mkrosz/mkrosz/assets/102179118/616c7a50-ed31-4438-a82a-f9ba000809a4)
+![Django the Cat](https://github.com/mkrosz/mkrosz/assets/102179118/304bd824-12ea-4585-a3c4-eb37eade6745)
