@@ -60,5 +60,6 @@
 
 </br>
 
-![the Cat](https://github.com/mkrosz/mkrosz/assets/102179118/2f36e4f3-7fef-49dc-a2ea-520ed5600148)
+![github-contribution-grid-snake-dark](https://github.com/mkrosz/mkrosz/assets/102179118/616c7a50-ed31-4438-a82a-f9ba000809a4)
+
 
