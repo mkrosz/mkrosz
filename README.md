@@ -59,6 +59,4 @@
 
 </br>
 
-<div style="display: inline_block"></br></br>
-     <img align="center" alt="Gif2" height="" width="" src="" />
-</div>
+![Cobrinha](https://github.com/mkrosz/mkrosz/bloob/output/github-contribution-grid-snake.svg)
