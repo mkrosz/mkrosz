@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Meios de contato 📞</h4>
+<h2 align="left">Meios de contato 📞</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">Músicas escutadas recentemente 🎶</h4>
+<h2 align="left">Músicas escutadas recentemente 🎶</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="left">Meus Status ✨</h4>
+<h2 align="left">Meus Status ✨</h2>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h4 align="left">Últimos trabalhos 💾</h4>
+<h2 align="left">Últimos trabalhos 💾</h2>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h4 align="left">Linguagens de programação que utilizo 👾</h4>
+<h2 align="left">Linguagens de programação que utilizo 👾</h2>
 
 ###
 
