@@ -45,7 +45,7 @@
   <a href="https://site-de-noticias-tan.vercel.app">
     <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/pagina_de_noticias.png" width="300">
   </a>
-  <h6 align="center">------------</h6>
+  <h6 align="center">&nbsp;</h6> <!-- Aqui -->
   <span>&nbsp;</span>
   <a href="https://site-de-noticias-tan.vercel.app">
     <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/pagina_de_noticias.png" width="300">
@@ -59,7 +59,6 @@
     <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/pagina_de_noticias.png" width="300">
   </a>
   <span>&nbsp;</span>
-  <h6 align="center">------------</h6>
 </div>
 </div>
 
