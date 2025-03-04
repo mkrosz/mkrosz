@@ -1,6 +1,6 @@
-<h1 align="left">Hi!! I'm Mike 🤙🏻</h1>
+<h1 align="left">Oie!! Eu sou o Mike 🤙🏻</h1>
 
-<h3 align="left">Meios de contato 📞</h3>
+<h3 align="left">Contatos 📞</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mike-franguelli-137513248" target="_blank">
@@ -37,7 +37,7 @@
   </a>
 </div>
 
-<h3 align="left">Linguagens de programação que utilizo 👾</h3>
+<h3 align="left">Ferramentas e linguagens de programação que utilizo 👾</h3>
 <div align="center">
   <!-- Ícones de linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -69,6 +69,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
 </div>
 
 <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/output/snake.svg" alt="Snake animation" />
