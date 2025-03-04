@@ -39,7 +39,7 @@
 
 <h3 align="left">Últimos trabalhos 💾</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrosz&repo=NomeDoRepositorio&theme=gotham" />
+ <img src="https://github-readme-stats.vercel.app/api?username=mkrosz&show_icons=true&theme=gotham" />
 </div>
 
 <h3 align="left">Linguagens de programação que utilizo 👾</h3>
