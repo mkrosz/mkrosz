@@ -20,7 +20,7 @@
   <a href="https://open.spotify.com/user/mkrosz">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lomdyj96ry6l6g8zozcwa65ni&count=3&unique=false" alt="Spotify recently played" />
   </a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdkbHZ1aDNlNGIwMTBhdGRoMzZjN2pmcW5naHY0NHNhcWo3NTYydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </div>
 
@@ -37,6 +37,29 @@
   <a href="https://mkrosz.42web.io">
     <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/portfolio.png" width="300">
   </a>
+  <span>&nbsp;</span>
+  <a href="https://site-de-noticias-tan.vercel.app">
+    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/pagina_de_noticias.png" width="300">
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://site-de-noticias-tan.vercel.app">
+    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/pagina_de_noticias.png" width="300">
+  </a>
+  <h6 align="center">------------</h6>
+  <span>&nbsp;</span>
+  <a href="https://site-de-noticias-tan.vercel.app">
+    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/pagina_de_noticias.png" width="300">
+  </a>
+  <span>&nbsp;</span>
+    <a href="https://site-de-noticias-tan.vercel.app">
+    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/pagina_de_noticias.png" width="300">
+  </a>
+  <span>&nbsp;</span>
+    <a href="https://site-de-noticias-tan.vercel.app">
+    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/pagina_de_noticias.png" width="300">
+  </a>
+  <span>&nbsp;</span>
+  <h6 align="center">------------</h6>
 </div>
 </div>
 
