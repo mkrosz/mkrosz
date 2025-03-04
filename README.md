@@ -14,21 +14,14 @@
   </a>
 </div>
 
-<!-- GIF e Spotify lado a lado -->
-<table>
-  <tr>
-    <td align="right">
-      <a href="https://open.spotify.com/user/mkrosz">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=lomdyj96ry6l6g8zozcwa65ni&count=3&unique=false" alt="Spotify recently played" />
-    </td>
-    <td align="left">
-    <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdkbHZ1aDNlNGIwMTBhdGRoMzZjN2pmcW5naHY0NHNhcWo3NTYydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h3 align="left">Músicas escutadas recentemente 🎶</h3>
+<div align="left">
+  <h3>Músicas escutadas recentemente 🎶</h3>
+  <a href="https://open.spotify.com/user/mkrosz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lomdyj96ry6l6g8zozcwa65ni&count=3&unique=false" alt="Spotify recently played" />
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdkbHZ1aDNlNGIwMTBhdGRoMzZjN2pmcW5naHY0NHNhcWo3NTYydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
+</div>
 
 <!-- Seção de status -->
 <h3 align="left">Meus Status ✨</h3>
@@ -39,9 +32,9 @@
 
 <h3 align="left">Últimos trabalhos 💾</h3>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkrosz&theme=gotham" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mkrosz&theme=gotham" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/recent-activity?username=mkrosz&theme=gotham" />
+  <a href="https://github.com/mkrosz/TAPWM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrosz&repo=repo1&theme=gotham" alt="repo1" />
+  </a>
 </div>
 
 <h3 align="left">Linguagens de programação que utilizo 👾</h3>
