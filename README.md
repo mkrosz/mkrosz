@@ -39,7 +39,9 @@
 
 <h3 align="left">Últimos trabalhos 💾</h3>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=mkrosz&show_icons=true&theme=gotham" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkrosz&theme=gotham" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mkrosz&theme=gotham" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/recent-activity?username=mkrosz&theme=gotham" />
 </div>
 
 <h3 align="left">Linguagens de programação que utilizo 👾</h3>
