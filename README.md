@@ -3,7 +3,7 @@
 <h3 align="left">Contatos 📞</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mike-franguelli-137513248" target="_blank">
+  <a href="https://www.linkedin.com/in/mike-franguelli" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJftLcHrzJlpVdGctNTptfTZpppjQdLzvkFVWKdVbDHrLRRmdvnvCKhdXkPdHWmktPSrZVV" target="_blank">
@@ -14,6 +14,7 @@
   </a>
 </div>
 
+<!-- Spotify e Gif -->
 <div align="left">
   <h3>Músicas escutadas recentemente 🎶</h3>
   <a href="https://open.spotify.com/user/mkrosz">
@@ -31,10 +32,12 @@
 </div>
 
 <h3 align="left">Últimos trabalhos 💾</h3>
-<div align="center">
-  <a href="https://github.com/mkrosz/TAPWM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkrosz&repo=repo1&theme=gotham" alt="repo1" />
+<!-- link cio imagens para projetos -->
+<div>
+  <a href="https://mkrosz.42web.io">
+    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/portfolio.png" width="300">
   </a>
+</div>
 </div>
 
 <h3 align="left">Ferramentas e linguagens de programação que utilizo 👾</h3>
