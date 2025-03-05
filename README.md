@@ -40,6 +40,9 @@
   <a href="https://site-de-noticias-tan.vercel.app">
     <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/pagina_de_noticias.png" width="300">
   </a>
+  <a href="https://loginanimado-mikef.netlify.app">
+    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/login_animado" width="300">
+  </a>
 </div>
 
 <h3 align="left">Ferramentas e linguagens de programação que utilizo 👾</h3>
