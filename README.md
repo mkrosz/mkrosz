@@ -14,9 +14,9 @@
   </a>
 </div>
 
+<h3>Músicas escutadas recentemente 🎶</h3>
 <!-- Spotify e Gif -->
-<div align="left">
-  <h3>Músicas escutadas recentemente 🎶</h3>
+<div align="center">
   <a href="https://open.spotify.com/user/mkrosz">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lomdyj96ry6l6g8zozcwa65ni&count=3&unique=false" alt="Spotify recently played" />
   </a>
@@ -26,14 +26,14 @@
 
 <!-- Seção de status -->
 <h3 align="left">Meus Status ✨</h3>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mkrosz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkrosz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=false&order=2" height="170" alt="languages graph" />
 </div>
 
 <h3 align="left">Últimos trabalhos 💾</h3>
 <!-- link cio imagens para projetos -->
-<div>
+<div align="center">
   <a href="https://mkrosz.42web.io">
     <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/portfolio.png" width="250">
   </a>
