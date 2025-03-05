@@ -35,13 +35,13 @@
 <!-- link cio imagens para projetos -->
 <div>
   <a href="https://mkrosz.42web.io">
-    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/portfolio.png" width="300">
+    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/portfolio.png" width="250">
   </a>
   <a href="https://site-de-noticias-tan.vercel.app">
-    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/pagina_de_noticias.png" width="300">
+    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/pagina_de_noticias.png" width="250">
   </a>
   <a href="https://loginanimado-mikef.netlify.app">
-    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/login_animado.png" width="300">
+    <img src="https://raw.githubusercontent.com/mkrosz/mkrosz/main/imgs/login_animado.png" width="250">
   </a>
 </div>
 
