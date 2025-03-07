@@ -1,4 +1,9 @@
-<h1 align="left">Oie!! Eu sou o Mike 🤙🏻</h1>
+<!-- Apresentação -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E6EB6&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3E6EB6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Mike;I'm+19+years+old;I+live+in+Brazil;I'm+a+Technician+in+Systems+Analysis)](https://git.io/typing-svg)
+
+<h1 align="left"></h1>
 
 <h3 align="left">Contatos 📞</h3>
 
