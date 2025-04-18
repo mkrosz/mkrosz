@@ -29,8 +29,8 @@
   <a href="https://open.spotify.com/user/mkrosz">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lomdyj96ry6l6g8zozcwa65ni&count=3&unique=false" alt="Spotify recently played" />
   </a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://github-readme-stats.vercel.app/api?username=mkrosz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="175" alt="stats graph" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://github-readme-stats.vercel.app/api?username=mkrosz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="190" alt="stats graph" />
 </div>
 
 ###
