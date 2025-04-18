@@ -54,6 +54,7 @@
     </td>
     
   <td valign="top" style="padding-left: 50px;">
+    <h2 align="left">My Projects</h2>
       <p align="left">
         <strong>Alguns de meus projetos mais recentes:<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></strong><br><br>
         🔗 <strong>Site JoKenPô</strong><br>
@@ -118,14 +119,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="40" alt="adobeillustrator logo"  />
 </div>
-
-###
-
-<h2 align="left">My Projects</h2>
-
-###
-
-<p align="left">Alguns de meus projetos mais recentes:<br><br>- Site JoKenPô<br>link:  https://jokempo-eight.vercel.app<br><br>- Site de notícias:<br>link: https://site-noticias-phi.vercel.app<br><br>- Meu Portifólio<br>link: https://mkrosz.42web.io</p>
 
 ###
 <!--
