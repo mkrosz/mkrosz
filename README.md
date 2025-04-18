@@ -29,13 +29,43 @@
   <a href="https://open.spotify.com/user/mkrosz">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lomdyj96ry6l6g8zozcwa65ni&count=3&unique=false" alt="Spotify recently played" />
   </a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://github-readme-stats.vercel.app/api?username=mkrosz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://github-readme-stats.vercel.app/api?username=mkrosz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="215" alt="stats graph" />
 </div>
 
 ###
 
-<p align="left">🗣️ Sou fluente em português.<br>🗨️ Tenho inglês intermediário.<br>🔤 Falo italiano em nível básico.<br><br>✍️ Tenho uma escrita clara e objetiva.<br>🎤 Sou bom em oratória e comunicação.<br>⏰ Tenho boa gestão de tempo.<br>🗂️ Sou organizado e eficiente.<br>🔍 Tenho atenção aos detalhes em tudo o que faço.<br>🎨 Sou criativo e gosto de pensar fora da caixa.<br>🌐 Me adapto facilmente a novas situações e desafios.</p>
+<table>
+  <tr>
+    <td valign="top">
+      <ul align="left">
+        <li>🗣️ Sou fluente em português.</li>
+        <li>🗨️ Tenho inglês intermediário.</li>
+        <li>🔤 Falo italiano em nível básico.</li>
+        <br>
+        <li>✍️ Tenho uma escrita clara e objetiva.</li>
+        <li>🎤 Sou bom em oratória e comunicação.</li>
+        <li>⏰ Tenho boa gestão de tempo.</li>
+        <li>🗂️ Sou organizado e eficiente.</li>
+        <li>🔍 Tenho atenção aos detalhes em tudo o que faço.</li>
+        <li>🎨 Sou criativo e gosto de pensar fora da caixa.</li>
+        <li>🌐 Me adapto facilmente a novas situações e desafios.</li>
+      </ul>
+    </td>
+    
+  <td valign="top" style="padding-left: 50px;">
+      <p align="left">
+        <strong>Alguns de meus projetos mais recentes:</strong><br><br>
+        🔗 <strong>Site JoKenPô</strong><br>
+        <a href="https://jokempo-eight.vercel.app" target="_blank">https://jokempo-eight.vercel.app</a><br><br>
+        🔗 <strong>Site de notícias</strong><br>
+        <a href="https://site-noticias-phi.vercel.app" target="_blank">https://site-noticias-phi.vercel.app</a><br><br>
+        🔗 <strong>Portfólio pessoal</strong><br>
+        <a href="https://mkrosz.42web.io" target="_blank">https://mkrosz.42web.io</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ###
 
