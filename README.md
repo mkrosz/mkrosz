@@ -30,7 +30,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lomdyj96ry6l6g8zozcwa65ni&count=3&unique=false" alt="Spotify recently played" />
   </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://github-readme-stats.vercel.app/api?username=mkrosz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mkrosz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
 </div>
 
 ###
@@ -55,7 +55,7 @@
     
   <td valign="top" style="padding-left: 50px;">
       <p align="left">
-        <strong>Alguns de meus projetos mais recentes:</strong><br><br>
+        <strong>Alguns de meus projetos mais recentes:<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></strong><br><br>
         🔗 <strong>Site JoKenPô</strong><br>
         <a href="https://jokempo-eight.vercel.app" target="_blank">https://jokempo-eight.vercel.app</a><br><br>
         🔗 <strong>Site de notícias</strong><br>
