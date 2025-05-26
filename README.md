@@ -30,7 +30,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lomdyj96ry6l6g8zozcwa65ni&count=3&unique=false" alt="Spotify recently played" />
   </a>
   <span>&nbsp;</span>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-Araujo&layout=compact&langs_count=7&theme=gotham" height="180" alt="stats graph"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-Araujo&layout=compact&langs_count=7&theme=gotham" height="250" alt="stats graph"/>
 </div>
 
 ###
